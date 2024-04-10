@@ -1,1 +1,1 @@
-tea-reg
+tea-protocol-registration
