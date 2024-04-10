@@ -1,7 +1,7 @@
 # Example project suitable for registration with tea Protocol
 
 # Project name
-project_name = "MyProject"
+project_name = "tea-protocol-registration"
 
 # Digital wallet addresses of developers or project maintainers
 digital_wallet_addresses = {
